@@ -1,11 +1,10 @@
 .top-warapper {
   height:650px;
-  background-image: url("file:///C:/Users/Ami/Desktop/images/yubatop.webp");
+  background-image: url("https://raw.githubusercontent.com/motsuo0517/motsuo-gitth/main/images/yubatop.webp");
   background-size:cover;
   color:white;
   opacity:1.0;
 }
-
 .container {
   padding:15px;
   width:500px;
